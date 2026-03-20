@@ -18,9 +18,9 @@ Please cite as, Elsig, Lugg, Ganeson and Roux. Trade agreements and the design o
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/academic-website/images/chart1.png" style="width: 100%;">
+    <img src="/academic-website/images/disaggregated_by_decade.jpeg" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/academic-website/images/chart2.png" style="width: 100%;">
+    <img src="/academic-website/images/by_region_facet.jpeg" style="width: 100%;">
   </div>
 </div>
