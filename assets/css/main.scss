@@ -46,9 +46,9 @@
 .masthead__menu ul {
   display: flex;
   justify-content: center;
+  flex-wrap: nowrap;
 }
 
-.masthead__inner-wrap {
-  display: flex;
-  justify-content: center;
+.masthead__menu-item {
+  padding: 0 0.5em;
 }
