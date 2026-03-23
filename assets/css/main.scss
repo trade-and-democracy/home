@@ -43,5 +43,12 @@
 ;
 
 .masthead__inner-wrap {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.greedy-nav {
+  display: flex;
+  justify-content: center;
+  background: transparent;
 }
