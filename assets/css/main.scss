@@ -42,25 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-
 .masthead__inner-wrap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  .site-title {
-    text-align: center;
-  }
-
-  .masthead__menu {
-    display: flex;
-    justify-content: center;
-
-    ul {
-      display: flex;
-      justify-content: center;
-      padding: 0;
-      margin: 0;
-    }
-  }
+  text-align: center;
 }
