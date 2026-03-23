@@ -22,7 +22,7 @@ Add information on the dataset.
 **Funding & Support**
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <img src="/academic-website/images/logo_snf.png" alt="" style="height: 20px;">
-  <img src="/academic-website/images/logo_unibern.png" alt="" style="height: 20px;">
-  <img src="/academic-website/images/logo_wti.png" alt="" style="height: 20px;">
+  <img src="/academic-website/images/logo_snf.png" alt="" style="height: 50px;">
+  <img src="/academic-website/images/logo_unibern.png" alt="" style="height: 50px;">
+  <img src="/academic-website/images/logo_wti.png" alt="" style="height: 50px;">
 </div>
